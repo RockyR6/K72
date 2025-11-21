@@ -10,7 +10,7 @@ import FullScreenNav from './components/navbar/FullScreenNav'
 
 const App = () => {
   return (
-    <div className='overflow-x-hidden text-black'>
+    <div className='overflow-x-hidden'>
       <Navbar/>
       <FullScreenNav/>
       <Routes>
